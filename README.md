@@ -1,2 +1,4 @@
-# Reinforcement_learning
-Grid World Reinforcement Learning Environment Linked to Open AI Gym<br/>
+# Reinforcement_learning(OpenAI Gym)
+<br/>
+## Algorithm Type
+### DQN, AC, A2C, A3C, DDPG, PPO
