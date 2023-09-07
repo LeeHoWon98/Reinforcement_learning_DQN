@@ -1,7 +1,6 @@
 # Reinforcement_learning(OpenAI Gym)
 Problem finding routes in grid world using openAI Gym<br/>
-
-<br/>Version1. An obstacle moving from left to right <br/>
+Version1. An obstacle moving from left to right <br/>
 * Environment -> OpenAI Gym(Grid_World)
 * Algorithm -> DQN
 
